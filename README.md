@@ -93,7 +93,6 @@ We currently use a simple Linear Regression model from sklearn. Sklearn also sup
 You can try make changes to train.py to experiment with using the random forest model. The class you will need to import is 
 `RandomForestRegressor` from `sklearn.ensemble`.
 
-
 ### Add or remove features
 
 You can also experiment with changing which features are used for training and prediction.
